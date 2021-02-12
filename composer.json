@@ -1,5 +1,5 @@
 {
-  "name": "JustRaviga/laravel-cloudwatch-logs",
+  "name": "justraviga/laravel-cloudwatch-logs",
   "description": "Laravel Adapter for AWS CloudWatch",
   "type": "library",
   "license": "MIT",
